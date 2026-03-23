@@ -21,6 +21,10 @@ Word2Vec模型基于两种主要架构：连续词袋（Continuous Bag of Words,
 与CBOW模型相反，Skip-Gram每次接收一个词作为输入，并预测它周围的词，
 这使其在处理较大数据集和捕获罕见词或短语时表现更出色。
 
+### 模型参数下载
+https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300  
+在这个链接中下载了GoogleNews-vectors-negative300.bin.gz文件，该文件包含300维的GoogleNews语料库的词向量。
+![img_3.png](word2vc%E4%BB%A3%E7%A0%81/markdown%E5%9B%BE%E7%89%87%E4%BD%BF%E7%94%A8/img_3.png)
 # 项目报道
 # Word2Vec模型构建与应用实验报告
 **学生姓名**：刘文昊、米朝阳、姚靖松、朱正涛
