@@ -25,18 +25,7 @@ Word2Vec模型基于两种主要架构：连续词袋（Continuous Bag of Words,
 https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300  
 在这个链接中下载了GoogleNews-vectors-negative300.bin.gz文件，该文件包含300维的GoogleNews语料库的词向量。
 ![img_3.png](word2vc%E4%BB%A3%E7%A0%81/markdown%E5%9B%BE%E7%89%87%E4%BD%BF%E7%94%A8/img_3.png)
-# 项目报道
-# Word2Vec模型构建与应用实验报告
-**学生姓名**：刘文昊、米朝阳、姚靖松、朱正涛
-**学号**：23011120118、23011120132、23011120106、23011120113
-**专业班级**：人工智能23201
-**任课教师**：于越洋
 
-## 实验分工
-
-1、刘文昊:25%, 米朝阳:25%, 姚靖松:25%, 朱正涛:25%
-
-2、刘文昊:评价指标代码编程与报告填写, 米朝阳:模型参数配置与训练, 姚靖松、朱正涛:数据集爬取
 
 ## 实验目的
 
